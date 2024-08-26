@@ -11,7 +11,7 @@ class About():
             st.markdown('''
                         Este é um projeto da comunidade para a comunidade.
                         As informações aqui dispostas são de cunho público,
-                        qualquer um pode ter acesso a elas pelas canais corretos.
+                        qualquer um pode ter acesso a elas pelos canais corretos.
                         Todos os direitos de construção e manutenção deste site pertencem
                         a Alleff Dymytry. Para mais informações, acesse a aba 'Contact'
                         para meios de comunicação e sugestões.Este projeto não visa fins
