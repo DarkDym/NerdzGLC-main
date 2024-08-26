@@ -1,0 +1,135 @@
+[
+    {
+        "date" : "20-08-2024",
+        "decks" : [
+            {
+                "player" : "Mauricio Souza",
+                "type" : "Normal",
+                "win" : false,
+                "score" : "2/1/0",
+                "place" : 6,
+                "drop" : false
+            },
+            {
+                "player" : "Pedro Fogaça",
+                "type" : "Water",
+                "win" : false,
+                "score" : "0/2/0",
+                "place" : 14,
+                "drop" : true
+            },
+            {
+                "player" : "Rodrigo Ciulla",
+                "type" : "Psichic",
+                "win" : false,
+                "score" : "2/1/0",
+                "place" : 4,
+                "drop" : false
+            },
+            {
+                "player" : "Diogo Souza",
+                "type" : "Water",
+                "win" : false,
+                "score" : "1/2/0" ,
+                "place" : 12,
+                "drop" : false
+            },
+            {
+                "player" : "Emiliano Fuchs",
+                "type" : "Water",
+                "win" : false,
+                "score" : "2/1/0",
+                "place" : 7,
+                "drop" : false 
+            },
+            {
+                "player" : "Thomas Silva",
+                "type" : "Grass",
+                "win" : false,
+                "score" : "3/0/0",
+                "place" : 2,
+                "drop" : false 
+            },
+            {
+                "player" : "Guilherme Dattein",
+                "type" : "Grass",
+                "win" : false,
+                "score" : "1/1/0",
+                "place" : 13,
+                "drop" : true 
+            },
+            {
+                "player" : "Joffre Araujo",
+                "type" : "Eletric",
+                "win" : false,
+                "score" : "0/3/0",
+                "place" : 16,
+                "drop" : false
+            },
+            {
+                "player" : "Vinicius Dias",
+                "type" : "Eletric",
+                "win" : false,
+                "score" : "0/3/0",
+                "place" : 15,
+                "drop" : false 
+            },
+            {
+                "player" : "Douglas Coelho",
+                "type" : "Water",
+                "win" : false,
+                "score" : "1/2/0",
+                "place" : 10,
+                "drop" : false 
+            },
+            {
+                "player" : "Alleff Dymytry",
+                "type" : "Dragon",
+                "win" : false,
+                "score" : "2/1/0",
+                "place" : 3,
+                "drop" : false 
+            },
+            {
+                "player" : "Gabriel Carneiro",
+                "type" : "Psichic",
+                "win" : false,
+                "score" : "2/1/0",
+                "place" : 8,
+                "drop" : false
+            },
+            {
+                "player" : "Luan Carneiro",
+                "type" : "Fire",
+                "win" : false,
+                "score" : "1/2/0",
+                "place" : 11,
+                "drop" : false 
+            },
+            {
+                "player" : "Fernando Tagliapietra",
+                "type" : "Grass",
+                "win" : false,
+                "score" : "2/1/0",
+                "place" : 5,
+                "drop" : false 
+            },
+            {
+                "player" : "Pedro Mallet",
+                "type" : "Water",
+                "win" : true,
+                "score" : "3/0/0",
+                "place" : 1,
+                "drop" : false 
+            },
+            {
+                "player" : "Kevin Souza",
+                "type" : "Fire",
+                "win" : false,
+                "score" : "1/2/0",
+                "place" : 9,
+                "drop" : false 
+            }
+        ]
+    }
+]
