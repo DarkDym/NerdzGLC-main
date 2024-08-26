@@ -14,14 +14,18 @@ class Login:
     Para que isso seja realizado, tenho que fazer a conexão com o banco de dados.
     '''
 
+    def login_button():
+        st.session_state.logged = True
+        st.session_state.current_page = "Home"
+
     def app():
         with st.container(border=True):
             st.text_input(label="Username", key="player_login")
 
             st.text_input(label="Password", key="player_password")
 
-            st.session_state.login = st.button(label="Login", key="button_login")
+            st.session_state.login = st.button(label="Login", key="button_login", on_click=Login.login_button)
 
-        if st.session_state.login:
-            st.session_state.logged = True
-            st.session_state.current_page = "Home"
+        # if st.session_state.login:
+        #     st.session_state.logged = True
+        #     st.session_state.current_page = "Home"
