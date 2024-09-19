@@ -23,10 +23,6 @@ class Connection:
                 st.session_state.mongo_users = mongo_users
                 st.session_state.mongo_liga = mongo_liga
 
-                # TESTE
-                print(f"TESTE DO QUE VEIO NA CONEXÃO USERS: {st.session_state.mongo_users}")
-                print(f"TESTE DO QUE VEIO NA CONEXÃO LIGA: {st.session_state.mongo_liga}")
-
             except ServerSelectionTimeoutError as e:
                 print(f"Erro de conexão: {e}")
                 exit(1)
